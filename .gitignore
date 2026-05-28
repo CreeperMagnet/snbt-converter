@@ -1,0 +1,7 @@
+__pycache__
+server.jar
+libraries
+versions
+config.py
+logs
+.cache
