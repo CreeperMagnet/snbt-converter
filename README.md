@@ -17,7 +17,7 @@ Since snbt is, well, stringified, this allows you to directly edit nbt files in 
 
 > [!CAUTION]
 > Use this at your own risk. Version-control your files using git to prevent stupid mistakes.
-
+>
 > This is designed for my usecase and my usecase only. It will delete files if you point this at a folder that has non-nbt files.
-
+>
 > If you have no idea what nbt is, do not use this project.
